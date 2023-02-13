@@ -18,9 +18,12 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 Pour la conception du site, nous nous sommes grandement inspirés du site officiel de ******* (trouvable [ici](https://www.entreprise.com/fr-fr/)), du site d'un de ses principaux concurrents [xxxxxxxxxx](https://www.entreprise2.fr/) et nous avons pris comme référence la charte de ************** disponible [ici](doc/charte_graphique.pdf).    
 
 
+
 ## Développement Site Web et Validation des pages
+
 ### Page d'accueil
-**Auteur : Nom Prénom**\
+**Auteur : Nom Prénom**  
+
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%s1-demo%2Findex.html)
 ![w3c accueil](doc/w3c/accueil.png)
 
@@ -29,10 +32,11 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sh
 
 ou 
 
-<img src="doc/capture_1_W3C.png" style="width=15cm" alt="capture ecran sur w3c">
+<img src="doc/capture_1_W3C.png" style="width=10cm" alt="capture ecran sur w3c">
 
 ### Présentation générale
-**Auteur : Nom Prénom**\
+**Auteur : Nom Prénom**  
+
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%s1-demo%2Findex.html)
 ![w3c presentation](doc/w3c/presentation.png)
 
