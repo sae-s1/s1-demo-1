@@ -33,6 +33,8 @@ ou
 
 <img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
+<!--  style="width=400px" ne fonctionne pas -->
+
 ### Présentation générale
 **Auteur : Nom Prénom**  
 
