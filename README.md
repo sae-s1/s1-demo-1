@@ -25,7 +25,6 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 **Auteur : Nom Prénom**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%s1-demo%2Findex.html)
-![w3c accueil](doc/w3c/accueil.png)
 
 
 ![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
@@ -38,7 +37,6 @@ ou
 **Auteur : Nom Prénom**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%s1-demo%2Findex.html)
-![w3c presentation](doc/w3c/presentation.png)
 
 <br>
 <img src="doc/capture_1_W3C.png" style="width=15cm" alt="capture ecran sur w3c">
